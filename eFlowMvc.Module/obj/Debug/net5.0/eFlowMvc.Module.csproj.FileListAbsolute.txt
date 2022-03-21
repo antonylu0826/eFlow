@@ -1,0 +1,12 @@
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\bin\Debug\net5.0\eFlowMvc.Module.deps.json
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\bin\Debug\net5.0\eFlowMvc.Module.dll
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\bin\Debug\net5.0\eFlowMvc.Module.pdb
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.csproj.AssemblyReference.cache
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.AssemblyInfoInputs.cache
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.AssemblyInfo.cs
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.csproj.CoreCompileInputs.cache
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.dll
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\refint\eFlowMvc.Module.dll
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\eFlowMvc.Module.pdb
+C:\Users\anthony\Desktop\eFlowMvc\eFlowMvc.Module\obj\Debug\net5.0\ref\eFlowMvc.Module.dll

@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8125ba72-317c-4eeb-9a44-68332c91e24f" namespace="eFlowApi.Module.BusinessObjects.eFlowModel" dataBaseShemaInfo="H4sIAAAAAAAEAO1dW28cubF+D5D/YPh5yyqSxVsgO/DaTrLJ2T2G7Q3Oa5Es2nMymhHmYu/++xQlre9JFLjdDRl6MTTsHmu+qdv3Faup0z/+cra+81p2+9V2c/+uuYd3//jg9787/Z738vyw3fFL+WHTt3f0rs3+D7/s2/27rw6H8z+cnLx58+beG3dvu3t5YhHNyf/9+D/P6ys547tvb17955thtdkfeFPlrv7WO3dOX3BZy378yovXv628t/Db0k98Jg/+tN2djY96evJu7e1tTzZj7cFhd9TrVy/eXny82o+Fn88bH+RB5/X4Tz5cfHvvn4+r9kN7gGw6N/bgavZAASPk2gMknx1RDtlkc3pydfPbNz/aro9nm/0HCP7lsl4YGC4vXqD76XhWZHd68t7yB7f/O5D/LdD3wRbjPNqCUINTsDYwlBwMMMeK4qx0Uz4Bq28/+UK8j/UDzY/WoY8utQxUiEFt6SCRGMjFYXSdvPfyNdA+P/DhuJ8fr/fWC2aCTCIKmjuUaAo410wvvQhhnBrvj/yPJRyZhatpTlF6G4A4NMhIFXyzWdFXa+zkjvxoJ/pxXqzOFnBlMTn0Vgx4U6tmKWM0QVkcpm09J87q4VPjfXh+vtu+lrYM4mYJs+8RjKhxqdQMuXEDF0LxzeRmI02N+Pmx/L/UwwKRmzT1ag0FNWdSd9ZKlFsNUCO5NlI2Up7cnY+7nWwOz1cvN/+7a0sEcfAhe2oIXFHzc2odUk8RiiVnK8Wew+RO/R7qJSCTKT7XqCWpZqtxrMUp+UIgNpDNJnaq10/Rn1u94kzX5lo/78fXMAPPaiYZ11nAMiny6ljNnhCkeu+Co6LmnpRn/fB4gTQdlWBYX8F6M2oTVygpRPChe3QoVfzkcTx+nB+p0brjGLUMtW6AEB0Ugw0KkUMKlaybPHYfyznvDmcavvPjzTE59ioTbMlqWf1RoUqHHE0Y7CqkbqfG+9dtebE6rBewbsKQkNSP2RqlVxL1J1Y6mXPJlX0yIaap0f6wvwTQFsjKnXInZqhZcFBKzcouWK1GWFtS++L0cJ/yfv9mu1sArUvecbEdqrXKrJIGcZGkqqEEaak4J3lyWfTkjFfrBfy41BAS5ZGP3Sg6qgBR6WQtvQbqGWMJk5NIpRaqAM/O54fbTcIsVe0ZWcPWFoYkqUAp0ruQMTG3ycvPdglpnzJmdL2BxVCAXEnAzRuwSqSkNUeJr19+puBR3x/3q43s9z9vVodZ+BSHbNv4BhDLEPs9QckUIbIzPeVqsH+as24cn3JedZEUCKV6oCgBkokWfB3NqoDo6+TxuwyfyrGLiVQhUlAtZAJCStEBJ0/YW8rkv5HQLb6UbCWCsNfQTWyBuxKrWjwGQ16Kub5Npwjd92nlDIEbJTZTNWZ9U/5IxitzHiHcuJfUBDVHf2rpmxa4aFLPalZIrD5NPagnx5zBdYnOSOyJv5HAjVaddrSWXRtN5mC13Pqm6iC0KsURNTt50/XDYjM7y1CRm3KzoIVGEbemiGN1MJhHZ+up0uS916e8W0T2KfO3HnsHCSkOmasFSJqB1qvJndG56QnkMmnZ29Zs0QJL3aig7+JVFaCoEPI2WirKq3D6zYMNv1yiDdelB0w2QkhOBZ/pqn6YSUtS8sqkMMZy/T7NFDXondSfY8tTaiXkBL0YFYBVSK0sDQKnVJ1+BcbcfOqIvUiNvaqspdGKU6cuibXqumH81ii0b6QCpZp78zTwkZozqDmLFwetVUOFWox98shdSPVhaSF7hmp90mxctPJU/UfZchKvJcm1PnfYPtvOFLUUHJPPCEzFAREqbxbOEDyloGvGs7vxUeu9c9iVQ3VKKvi0+kLOLoPJ3oaWg3SeXgYtErUl5+6VKYKjhCMJB+ChCgwbLq1ULNOzqIUEH2ka8iYD42jCOY3fZFGDuCa90kSa87NG7ejQPXw5l96rtTakRgo/l0GsOmTjCDCq3MVSQ5JPdw6+JG4vt/Rm368vGqHVZ9UCVv2ZZQyfBOVVFb23wtXFyXXQlRFnZ4/W+BqCgPODWqArwFp6oLio5VaqU0k4eVf5wLvDMpMYpUmgUIw6cFUH1oAdnEqJVVaRkJph/i96rdeE+2Sz0NhJppzUbRNgQxV8PXZIRsbmZrQSasTC1ydTUySri4EyORxWm5fz9JVbEenNaY42NEYEPXCgDsZE5ZkSQ6Np21Mvfj2XZUoworHZFQsWDY7CZKGMLbGkXMoXk1Q+TD5idDn5+XQnffXLAvQq+la66l52aUzcGFGpoPQj9hCsMbWb+CmHvJGkI7Eyxd7VrJmHxqUxWyQIiUrhppIppjp7HA9X/zaD+DaAbwP4Gw/gt6phRPI8fTrDGIVVApuoPLOmBjnUBpg96VfQA/ZpFf+7HDX7PHctsRXKYxylX7agS8sCOCb1VVpklOtb+7qU+p0MnH1bIVDMNRswISlmM2ycUoeApddmfebP9HK+EO6l286+g19tz0P9agAPrTQasp0ceLINmUzwYd6B1ws+fTGiI+ezRLGWW6/VuELJzmotRtQoVlnB0VR0nZ3/zFbojX3AqNjUx9MYElGztq1KQVizti+laoFyxZjJB2AXnGCvWWrKTaCmEsbURlDbOvXu2GpMLnr7debLlsCaHDVUVCDIVU1rEQp5r26tRiepauHJydYz2R/XC+Tnll1Uv03Q0Wt+dpwhM2aIlQtiss3ZyVsew64LPWqTEtuKpKHqlW9RUBrNWpc0YmMzLtYik/ezHm3PlhnkjpF764oTNWaBuBDkWCKYaLB5Eu/D5EzjmfB6qbD1FRGz4cEfxz8lQRkt+GjREiqD9Gn+7vsovg8PB66vZhu7yoXZhhagBKUfF/1pRmeAYkotRC5BpiXT70jG7PEcicmaDqVHVf++jXhWbh1IEzZmGZtsk7PL1XqhLp71iZRNjkkkTVzUQwHm1iAEFOqoMrJef1P4mmgf84GXqEqIzkZlkgpNHZeSsg1l1Q67CoqW0PnpkW7rcZlEPSnaqZTDzEkrmqBJWkO3tahJy6Y6ZHEF9lkpV+EW8dPkfWO1Q1Lxi0orc6tjoj1Z4GS0MmPRIkbx20pbqWlhjj2DFxUMlFoC7mLGQyqGLgZ6PtOivZFpq4r1vVVNy62Ph5vr2EnEAFzEtxzQuzD501XLpa1J0U7Jt26bHbfNji/z7Ntmx1dudnwjKvG2ufMJ1tvmzs1r7kxRfP/OlQ+r7Wa2nf8glKT7Ci6PB2OJUQ1fIzhvufQcU6nTHme2xJSwcYI5dQesoaxmjnY88eyhkafxXE42bvLDGBaaEq7CGsANUkavKqFWSNUaSMX7WK2vcfpTkJbZ70dWNE6jNmCncaKXVlxDCD0W46tvUTPVrKH7lx8fzhKxphP6WBh8G848HqxT9mEAi6nNcktM0zYmP8xJc9uZyDkfMCm1sKqPYldnNpkUbiSynquPkz+tcjE8q+J3AbiG0ffUGnSXh3VZlWBXyeBqw1ac+CqTj0UvOCtco784WQNC8w6omAhltK6Ye69SG5fpT1J5smnL2DYn23NBB2jGrHCLrGVICmjG4u4T969wJtBig9FFY9MoewAe5w5S6GWMYkUIOVBwzTo285648eTsfL39VeahVbenl92eXvaFSG9PL5vvMdHb08tuTy+bsujenl42A9zb08u+2ullV6/f3XI6/gyAtKe7bb1YvHNyufz3y78ZoMXq9ZNfzney398bm4b3Xltzz3535+ry/fHqXriH3915dFwfjju5v5HjYcfr7+48PZb1qv5Nfn2x/Yds7peUmoleyTGiqPw5PfntV1z8vkdrTSSyHwZ4dnz77Z4+bO3yCYurz3W59PzYP1h6Jmfb1/LxjZerH9/7iPfy4OdNfcWblyNJX7y+/Go+9xlO9Zs5l91htfBn+xcf4/TPspGdutdVp3V/5aOfLH9w82PZX2wvjE3vj9/x4bWLtz2WtRzk4X6/rauLhsFv7/nMhYs3/HRcr4ebfS+v+PVqu1Mv6nzZ4v/4yu9/d3ry0V+jePBPFhorgbZiAAA=" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="21.2.4.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="21.2.4.0" name="eFlowModel" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="af485b6e-d63f-4178-91b7-d70046875b15">
+      <xpObject Id="0a1fada5-3c95-4607-9cf6-859344969191" name="FormBase" baseClass="XPCustomObject" userFileName="FormBase" designerFileName="FormBase.Designer" className="FormBase" virtualBaseClass="XPCustomObject" nonPersistent="true" virtualName="FormBase">
+        <fields>
+          <generalXpObjectHasFields Id="7686b703-4ad9-4d2b-a024-2684c2659dc7">
+            <field Id="b13502b0-c635-426a-b961-aa7c0e32ef1b" name="FormNumber" key="true" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="059bf567-f596-498b-8fca-f71acc799399">
+            <field Id="305738d9-4b4a-4963-84e1-9b3073f4555e" name="FormDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e30bdb8c-7bee-4d31-8f01-c5cc23786079">
+            <field Id="5525e094-94ee-4baf-b71b-33d1fbfbe407" name="FormStatus" virtualColumnType="FormStatus" logicalType="FormStatus" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0df4b9ef-35fe-4db1-8510-952e7221c70f">
+            <field Id="aeac1d3e-4526-4a6d-904c-5d2994ec212b" name="Maker" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c1053e2b-129b-4f8f-8040-8ce4875bbe34">
+            <field Id="e196fdb1-51cc-4611-8520-33ddf98a9b4a" name="CreateTime" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="115b5b26-6248-451e-8f40-ee50d23e99ef">
+            <field Id="d24095f7-1e6d-4bc9-9dad-366b5d19d274" name="ApprovedTime" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="674f25a9-5a7a-42c9-be86-97d2c16f6d16">
+            <field Id="582ef200-3dd8-4a95-9dc6-c743d3502049" name="Subject" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1c2bbf4b-a8d9-4fd9-92ed-cc07e3860b77">
+            <field Id="656954d0-ac0a-48df-8f87-b2432c47f96a" name="CurrentSignOrder" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="70f431fa-7fd5-4bc3-89a3-bd558a8b666b">
+            <field Id="41b59c79-4c92-46d9-85b4-e2642917f4c7" name="CurrentSigner" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="5c56b4ca-8960-4b88-a731-77135c8a955f">
+      <xpObject Id="d1813fae-2a42-4c3a-ac80-ec553634b7f9" name="Employee" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Employee" designerFileName="Employee.Designer" className="Employee" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Employee">
+        <fields>
+          <generalXpObjectHasFields Id="3d986077-b29c-4035-8e4c-fd3e6894b4f9">
+            <field Id="e784e25c-251e-45ac-b867-56f5030ece59" name="ID" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0ae69641-e218-4a6e-b946-1830b9c8e3ea">
+            <field Id="1ddf3a01-8df1-4003-b10d-b443046c423a" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="50037bd9-13a6-4f60-b05d-3fb307459481">
+            <field Id="9783a5a5-2b9e-4a5a-b4ef-9716d1fb68f2" name="Department" virtualColumnType="Department" logicalType="Department" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="749ae814-6f48-4e0e-b8dd-40b9fc179e33">
+            <field Id="8068045c-a216-4e7c-aaaf-99b9ca581678" name="JobTitle" virtualColumnType="JobTitle" logicalType="JobTitle" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0a35f0ec-8287-4867-af17-0603253b5914">
+            <field Id="4f49f4aa-c9e0-4529-8362-8f0cd86d1078" name="IsEnabled" columnType="Boolean" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="7dbdb382-8fd8-45ec-80d1-c4460eb8de45">
+            <field Id="3853ab2f-c22d-4801-be84-9b6ed8b33e9e" name="Password" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="62bd8157-8648-4db8-8713-c716993c818b">
+            <field Id="8bc66849-2513-4c33-806d-cbfc64f907b6" name="Email" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6b0e78a9-e374-4c7a-8c7c-5e52c2544980">
+            <field Id="f1809ec1-b7a6-42ba-8e8b-bbeffe41179d" name="SignStamp" columnType="ByteArray" virtualColumnType="ByteArray" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="53ba807b-86b3-4847-bfdf-3c37c21eb8e5">
+            <field Id="890903fd-206b-43b8-ad51-2e26edd348aa" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="0042071b-ce0c-45de-b2d1-99dd2e90c686" sourceCollectionName="SignAgents" name="SignAgentReferencesUser" targetFieldName="User">
+            <xpObjectMoniker Id="cccd04d4-a09b-4fef-9134-070610bc68e2" />
+          </simpleAssociation>
+        </saTargets>
+        <mMTarget>
+          <manyToManyRelationship Id="4db191d8-7a66-4f53-8a45-16035a7a9834" sourceCollectionName="JobRoles" name="JobRoleReferencesUser" targetCollectionName="Users">
+            <xpObjectMoniker Id="463a4590-a4b3-4402-aea9-65486a4b15a3" />
+          </manyToManyRelationship>
+        </mMTarget>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="73f2fee0-98d2-4d46-a07d-56709e6159c1">
+            <collectionField Id="4382c647-e3ef-45be-b459-a868efbf674a" name="JobRoles" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="8948e6df-a60c-4e93-b1e6-71c42566f38d">
+            <collectionField Id="20f9d60b-5233-40e0-b986-6d69ce722b9e" name="SignAgents" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="68522d96-190d-46a6-b06a-f578081d003c">
+      <xpObject Id="7e7d1cbe-5def-4153-b0be-dafb8de079dd" name="Department" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="Department" designerFileName="Department.Designer" className="Department" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="Department">
+        <fields>
+          <generalXpObjectHasFields Id="b6519970-0dab-4bf9-bff6-6ca8ebc15b84">
+            <field Id="018f9afa-8a4c-4f63-a799-3fe731e7f8a6" name="ID" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4bf2d165-a7e2-441e-a787-36083d5660d8">
+            <field Id="72614963-3d4a-462b-b5da-b6dceb344d27" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="92428f65-3a62-4f8e-972a-222c06c6942f">
+            <field Id="107250ff-e687-4006-8ed1-dfc19fa033b6" name="Parent" virtualColumnType="Department" logicalType="Department" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="93fffc16-7cc6-4496-bf24-8c85fd0481a9">
+            <field Id="fef60827-6830-41f4-9aa4-ea85bf8077b9" name="Manager" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a861f6ec-8b57-401f-9249-f24d6d73f56f">
+            <field Id="52dd2be6-4f11-4fe5-be0e-8352724b26e0" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="9d51c666-2452-4a94-965b-a33e470bc719" sourceCollectionName="Users" name="UserReferencesDepartment" targetFieldName="Department">
+            <xpObjectMoniker Id="d1813fae-2a42-4c3a-ac80-ec553634b7f9" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="880450c2-0a31-443b-9dd0-9c556a1833bf">
+            <collectionField Id="395868fb-727e-4c11-be17-82dd92e28ce9" name="Users" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="8e0496fe-eff1-4c93-923c-860871decbf0">
+      <xpObject Id="0ecc40a8-fb1d-4ce4-83ed-6a88c3a85118" name="JobTitle" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="JobTitle" designerFileName="JobTitle.Designer" className="JobTitle" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="JobTitle">
+        <fields>
+          <generalXpObjectHasFields Id="42a209fb-e644-40e0-b962-26e040c140f3">
+            <field Id="0fbec7fc-9b4e-4511-b8ae-53fef6dd46d6" name="ID" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1bef3728-8527-47c3-836f-91cd9263010e">
+            <field Id="8c9fd541-b84d-46e4-b5e3-ddc14b4d77f0" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a4edd981-1554-4729-99e7-628a8bcc62c7">
+            <field Id="80bd695a-c258-40bb-bcbb-1608e59d23df" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="f3e05e48-ca23-4639-9f4a-c2be4b0d8b60">
+      <xpObject Id="463a4590-a4b3-4402-aea9-65486a4b15a3" name="JobRole" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="JobRole" designerFileName="JobRole.Designer" className="JobRole" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="JobRole">
+        <fields>
+          <generalXpObjectHasFields Id="becf2921-d7c2-484e-b769-624b9540f2df">
+            <field Id="55330f2b-f485-4072-9939-19526d96efad" name="ID" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="df733c32-2f95-4362-9f5e-35567ef80718">
+            <field Id="b99f5b5d-3480-4ce6-acbe-1a1abdbc0b4b" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="b94c99e8-bd45-4bf8-8190-038facd426e4">
+            <field Id="b414b519-a013-435a-820a-cc8414deed35" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="548a7be1-c101-4c8a-b7f4-6b5e52217ee4">
+            <collectionField Id="bf8fda41-5e58-4510-988a-5c16a8674ca4" name="Users" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="cc22af3f-5eb5-48ed-9a01-b24590a2fbca">
+      <xpObject Id="cccd04d4-a09b-4fef-9134-070610bc68e2" name="SignAgent" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="SignAgent" designerFileName="SignAgent.Designer" className="SignAgent" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="SignAgent">
+        <fields>
+          <generalXpObjectHasFields Id="66633d38-dbf0-459c-a486-8a32fc683561">
+            <field Id="fdff34bb-a7cc-420a-9c8b-31ad47d8898d" name="User" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4db5cc42-34c2-4aab-a537-66f34fd71897">
+            <field Id="f215c66e-354e-403b-a23d-b37b4dec3261" name="Agent" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8664971c-fa1f-4747-97d5-5317df5f6766">
+            <field Id="bde646b1-a0cb-4dee-9b4c-99fe58d1aaaa" name="StartTime" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="22d15857-458d-4fe2-9580-123f894e5f3e">
+            <field Id="94987648-0d07-4f7f-81e3-b172e6c70ba0" name="EndTime" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="870947a6-7bbd-4b00-8f31-6b6cf5a10d66" sourceCollectionName="SignAgentForms" name="SignAgentFormReferencesSignAgent" targetFieldName="SignAgent">
+            <xpObjectMoniker Id="a83a3812-9a7a-4db2-9ebc-183d06152d2e" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="0a457b1f-85b8-44b0-ad7c-1f6120a25bed">
+            <collectionField Id="f7dd9dc6-e86b-4084-a5d4-8594a73e8830" name="SignAgentForms" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="18a6cda9-a4d8-43e2-950f-19cd017cb019">
+      <xpObject Id="adbeefd3-8214-4265-a64f-117c9fe76d4d" name="FormType" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="FormSetting" designerFileName="FormSetting.Designer" className="FormType" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="FormType">
+        <fields>
+          <generalXpObjectHasFields Id="2e1ce7d8-454c-4f3e-8211-9a19c1f06148">
+            <field Id="001293b2-2010-4352-b22d-8b155b18c7f4" name="Name" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4ca93d74-d8ef-4a13-b8a0-4e765ef00f82">
+            <field Id="575dbf27-a38a-481e-b580-7f66211cf173" name="NumberPrefix" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="18887b10-be6b-42fc-8e82-239e009f015a">
+            <field Id="8afadff0-49ad-4c4f-8fe0-84bbad8c978c" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="ca952246-ad16-42d9-b2a7-2ecef280c1f5">
+      <xpObject Id="a83a3812-9a7a-4db2-9ebc-183d06152d2e" name="SignAgentForm" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="SignAgentForm" designerFileName="SignAgentForm.Designer" className="SignAgentForm" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="SignAgentForm">
+        <fields>
+          <generalXpObjectHasFields Id="72cb864d-7f3b-44a8-a9be-1e2ed2fba923">
+            <field Id="16479c91-1689-41a2-988f-60bfcd259aa3" name="SignAgent" virtualColumnType="SignAgent" logicalType="SignAgent" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0a02843f-e094-4660-bc5e-14a245aab6a1">
+            <field Id="ec2f94d4-c4fe-40fc-9f43-542d0a416567" name="Form" virtualColumnType="FormType" logicalType="FormType" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="cad3ea90-dd90-46fb-8a17-fd9aee9056aa">
+      <xpObject Id="fe75beec-b932-4200-967f-a71c03fa35a6" name="SignStep" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="SignStep" designerFileName="SignStep.Designer" className="SignStep" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="SignStep">
+        <fields>
+          <generalXpObjectHasFields Id="9d3ddfe5-3a0c-492b-8624-8e5bab4b72c8">
+            <field Id="bb28fa6d-e70d-42c3-8ae0-5bbc6213b119" name="FormNumber" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a2b1c92d-257e-425c-aa0a-f2e43b3bdc80">
+            <field Id="c9ec89de-c8b6-4166-9633-57dc783752b6" name="SignOrder" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d6310768-9c3d-4dfe-a41e-b017b283f18d">
+            <field Id="834d0c78-e0ac-4220-b455-b9bb24ecbbc4" name="Signer" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="55f5f623-7923-4805-aa44-0a180e494343">
+            <field Id="5c00091a-4c8a-4cb8-b35a-7202400f3585" name="RealSigner" virtualColumnType="Employee" logicalType="Employee" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="39f998de-8bfa-4b5f-8882-4381e26faf33">
+            <field Id="d9378ae8-f059-43a9-9a09-7cab0082d32a" name="Result" virtualColumnType="SignResult" logicalType="SignResult" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a36761c6-5472-4a9a-8aab-dd64fb9678c1">
+            <field Id="d88a2c04-8a50-4462-ba89-c627d137cbe1" name="SignTime" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f8adb925-6a08-47b5-8b37-cc650cdb728b">
+            <field Id="77afdf50-0c8b-4ab4-97b7-1710d54e556c" name="Comment" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="b95cfccb-ccd2-48e5-8cca-dea5e86ddb35" sourceCollectionName="SignStepAttachments" name="SignStepAttachmentReferencesFormSignStep" targetFieldName="SignStep">
+            <xpObjectMoniker Id="9baa26d6-b643-4aef-a031-4788d67ab6e3" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="36fe7209-3d4d-4135-8d5e-cd4cc452c61f">
+            <collectionField Id="9bccd7e4-f9ce-4f87-961f-0413848c097e" name="SignStepAttachments" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="fcaa586a-0e68-4e75-9a70-890d8cc5c291">
+      <xpObject Id="9baa26d6-b643-4aef-a031-4788d67ab6e3" name="SignStepAttachment" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="SignStepAttachment" designerFileName="SignStepAttachment.Designer" className="SignStepAttachment" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="SignStepAttachment">
+        <fields>
+          <generalXpObjectHasFields Id="d744f64e-a8df-45c0-a72e-fe7722efbfa6">
+            <field Id="d74a421f-bf74-45d2-ba49-64b4509e5533" name="SignStep" virtualColumnType="SignStep" logicalType="SignStep" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="adbda328-01e6-474b-acb7-9e905e6a9aed">
+            <field Id="d900327c-b60e-4748-96fe-30f164d8035f" name="Document" columnType="ByteArray" virtualColumnType="DevExpress.Persistent.BaseImpl.FileData" logicalType="DevExpress.Persistent.BaseImpl.FileData" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="8f4c0356-9e9f-4d54-880c-af98842a6d3e">
+      <xpObject Id="71624049-dd73-428c-bd9c-a5924ebad705" name="FormAttachment" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="FormAttachment" designerFileName="FormAttachment.Designer" className="FormAttachment" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="FormAttachment">
+        <fields>
+          <generalXpObjectHasFields Id="a6688360-b448-41ba-b209-8600cdd432d0">
+            <field Id="b8bfc020-9dce-4b82-a817-10b5c0475533" name="FormNumber" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3a1eb888-984d-4d56-a4e6-a670aa7bf343">
+            <field Id="ce25fdcb-adf8-4ac1-a006-abe5d9605368" name="Document" columnType="ByteArray" virtualColumnType="DevExpress.Persistent.BaseImpl.FileData" logicalType="DevExpress.Persistent.BaseImpl.FileData" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="76402c7d-81e3-43bb-b412-9d364e3a7cb5">
+      <xpObject Id="6e48ef5c-396b-44a0-8ac7-352abf978bc1" name="VacationType" baseClass="DevExpress.Persistent.BaseImpl.BaseObject" userFileName="VacationType" designerFileName="VacationType.Designer" className="VacationType" virtualBaseClass="DevExpress.Persistent.BaseImpl.BaseObject" virtualName="VacationType">
+        <fields>
+          <generalXpObjectHasFields Id="48a65532-94a9-45d2-9e16-36899f810d63">
+            <field Id="13e098f3-a937-4a72-b7a5-d454c19f9132" name="ID" virtualColumnType="String" delayedUpdateModifiedOnly="false" customAttributes="Indexed(Unique = true)" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d7036ff8-1567-447f-b8af-4e023b3fe974">
+            <field Id="bcea88ad-8905-48cc-8c21-8b557c25c774" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="097f997f-45f2-42cc-92ac-bd4552ae2021">
+            <field Id="0a25c38b-60f4-4a60-b140-f7b15c5d77cb" name="Note" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="03086573-3a40-4196-8d4e-5b6371dfc6bc">
+      <xpObject Id="1f4057ba-5d37-49d2-8341-0b1cd2ad8a43" name="HMA" baseClass="FormBase" userFileName="HMA" designerFileName="HMA.Designer" className="HMA" virtualBaseClass="FormBase" virtualName="HMA">
+        <fields>
+          <generalXpObjectHasFields Id="864b1354-7233-4106-93ab-dca713f7e2d4">
+            <field Id="44335608-7228-47f1-8194-0b74425ac570" name="VacationType" virtualColumnType="VacationType" logicalType="VacationType" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="75f02b9c-3a5d-4f12-b5bf-9731c70c1e18">
+            <field Id="1a05f8dd-f397-49a6-af6d-3cd0db3e5ce7" name="StartDate" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="dff217c0-9ad5-45e8-8e10-8404b5c9c7a5">
+            <field Id="c75fc64f-6d53-4b17-bd73-aaffcecdab78" name="StartTime" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d597d3c4-df63-4784-9f77-b9285816d3cd">
+            <field Id="982f9b03-0107-4d7a-b7eb-7b1af58af8f2" name="EndDate" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="46938433-e62a-4825-b50e-9cc10d12f7c1">
+            <field Id="b25a18bc-a520-46fb-84b7-696463d23a1a" name="EndTime" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <superClass>
+          <inheritance Id="7bf305e3-4447-4a67-8fba-48886d77e7de">
+            <xpObjectMoniker Id="0a1fada5-3c95-4607-9cf6-859344969191" />
+          </inheritance>
+        </superClass>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+  <externalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="2169ba98-52f9-4fc2-b596-210d0f997f66">
+      <externalType Id="6e95135a-ded4-4b47-9b06-28dfc2afa10a" name="FormStatus" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="aede0721-2f1a-405b-a12d-098a7d9eef9c">
+      <externalType Id="73a51096-1bfe-4b86-ac2f-1463bc2471ba" name="SignResult" />
+    </dataBaseObjectModelHasExternalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="88bce89e-8448-4cd0-a4b3-efdcc382fa5b">
+      <externalType Id="455b463f-5b39-4e40-9263-6ddf15bf90fa" name="FileData" namespace="DevExpress.Persistent.BaseImpl" />
+    </dataBaseObjectModelHasExternalTypes>
+  </externalTypes>
+</dataBaseObjectModel>
